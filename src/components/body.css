@@ -1,0 +1,69 @@
+/* .bckgrnd {
+  color: #f1f1f1;
+}  */
+.backgroundcolor {
+  background-color: #e6e6ff;
+}
+.border {
+  border: 0.1px solid red;
+}
+.ar1 {
+  margin-top: 14%;
+}
+.ar2 {
+  margin-top: 6%;
+}
+
+.ar3 {
+  margin-top: 6%;
+}
+.ar4 {
+  margin-top: 2%;
+}
+.ar5 {
+  margin-top: 6%;
+}
+.cardlinksfont {
+  font-size: larger;
+}
+/* .cardlinks a:active,
+a:visited {
+  color: black;
+} */
+.containerborder {
+  border-style: solid;
+  border-color: #f9dc3e;
+  border-width: 2px;
+}
+a.onlinksHover {
+  text-decoration: none;
+  color: black;
+}
+a.onlinksHover:hover {
+  color: #d14a47;
+}
+/* a.onlinksHover:visited {
+  color: black;
+} */
+.allCoursesbtn {
+  background-color: #e30514;
+  color: white;
+  margin-top: 3%;
+}
+/* .containerboundry {
+  border: 0.1px solid #d14a47;
+} */
+/* .contentBar {
+  border: 0.1px solid #d14a47;
+}*/
+/* .sideBar {
+  border: 0.1px solid #e5e5e5;
+} */
+.sidebrheading {
+  background-color: #002f5f;
+  color: white;
+  text-align: center;
+}
+.bordderbotton {
+  border-bottom: 0.1px solid #002f5f;
+}

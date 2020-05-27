@@ -1,0 +1,38 @@
+.primaryBackground {
+  background-color: #002f5f;
+  color: white;
+}
+/* .main2 {
+  color: white;
+  text-decoration: none;
+} */
+.alphaColor {
+  color: #f7cd00;
+}
+.footerMainDiv {
+  padding-top: 2%;
+}
+/* a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: white;
+} */
+/* .linkcolor {
+  text-decoration: none;
+  color: white;
+} */
+/* a.onlinksHover:hover {
+  color: #d14a47;
+} */
+a.footerLink {
+  color: white;
+}
+a:hover {
+  color: #d14a47;
+}
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+}
